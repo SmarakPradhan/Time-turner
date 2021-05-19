@@ -1,0 +1,6 @@
+wtftz==0.2.4
+pymongo[srv]==3.11.3
+discord==1.0.1
+python-dotenv==0.15.0
+dnspython==1.16.0
+asyncio==3.4.3
